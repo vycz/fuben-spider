@@ -1,0 +1,38 @@
+
+归档首页 
+    httxps://www.oracle.com/java/technologies/oracle-java-archive-downloads.html
+软件支持
+    httxps://www.oracle.com/java/technologies/java-se-support-roadmap.html
+jdk SE14
+    最新版本 https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+    归档 https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html
+jdk SE13
+    归档 https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html
+jdk SE12
+    归档 https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
+jdk SE11
+    最新 https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
+    归档 https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+jdk SE10
+    归档 https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html
+jdk SE9
+    归档 https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html
+jdk SE8
+    最新版本 8u251 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+    归档 (8u211 and later) https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
+    归档 (8u202 and earlier) https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+jdk SE7
+    https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html
+jdk SE6
+    归档 https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html
+    最新版本
+jdk SE5
+    归档 https://www.oracle.com/java/technologies/java-archive-javase5-downloads.html
+jdk SE1.4
+    归档 https://www.oracle.com/java/technologies/java-archive-javase-v14-downloads.html
+jdk SE1.3
+    归档 https://www.oracle.com/java/technologies/java-archive-javase-v13-downloads.html
+jdk SE1.2
+    归档 https://www.oracle.com/java/technologies/java-archive-javase-v12-downloads.html
+jdk SE1.1
+    归档 https://www.oracle.com/java/technologies/java-archive-downloads-javase11-downloads.html
